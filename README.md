@@ -1,4 +1,4 @@
-ho fatto un test di vunerabilità su metasploitable,Metasploitable 2 è una macchina virtuale Linux appositamente configurata con molte vulnerabilità note per permettere ai professionisti della sicurezza di testare e migliorare le proprie competenze nel campo del penetration testing
+ho fatto un test di vunerabilità su metasploitable,Metasploitable 2 è una macchina virtuale Linux appositamente configurata con molte vulnerabilità note per permettere di testare e migliorare le proprie competenze nel campo del penetration testing
 
 alcune delle vunerabilità sono:
 
