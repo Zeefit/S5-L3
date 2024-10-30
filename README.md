@@ -1,5 +1,7 @@
 ho fatto un test di vunerabilità su metasploitable,Metasploitable 2 è una macchina virtuale Linux appositamente configurata con molte vulnerabilità note per permettere ai professionisti della sicurezza di testare e migliorare le proprie competenze nel campo del penetration testing
 
+alcune delle vunerabilità sono:
+
 1. Apache Tomcat AJP Connector Request Injection (Ghostcat)
 Criticità: Permette accesso remoto ai file o codice arbitrario.
 Soluzione: Aggiorna Tomcat e configura l'accesso AJP per utenti fidati.
